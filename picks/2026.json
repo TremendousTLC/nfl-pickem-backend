@@ -1,0 +1,25 @@
+{
+  "season": 2026,
+  "players": {
+    "Terry": {
+      "1": {
+        "0": "Seahawks",
+        "1": "49ers",
+        "2": "Panthers",
+        "3": "Bengals",
+        "4": "Ravens",
+        "5": "Texans",
+        "6": "Lions",
+        "7": "Jets",
+        "8": "Steelers",
+        "9": "Jaguars",
+        "10": "Chargers",
+        "11": "Packers",
+        "12": "Dolphins",
+        "13": "Eagles",
+        "14": "Cowboys",
+        "15": "Broncos"
+      }
+    }
+  }
+}
